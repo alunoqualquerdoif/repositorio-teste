@@ -1,4 +1,4 @@
-Esse é um repositório teste.
+Esse é um repositório teste
 
 
 
