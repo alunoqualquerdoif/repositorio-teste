@@ -13,3 +13,7 @@ enviar para repositório remoto -> git push
 Trazer do repositório remoto -> git pull
 
 Linha nova
+
+---
+
+alterando arquivo usando Github Client no Windows
